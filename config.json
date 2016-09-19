@@ -1,7 +1,0 @@
-{
-  "app": {
-    "src": "./src/main",
-    "dest": "./build"
-  },
-  "openlmisServerURL": "http://localhost"
-}
